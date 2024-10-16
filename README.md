@@ -33,7 +33,7 @@ O hospital deseja migrar sua operação de planilhas e arquivos antigos para um 
 O Diagrama ER foi desenvolvido utilizando a ferramenta Miro, refletindo as necessidades descritas acima. Ele demonstra a estrutura de tabelas que será implementada no banco de dados do sistema.
 
 ### Print do Diagrama ER
-
+<img src="imagens/DiagramaHospitalPT1.jpg" />
 
 ## Tecnologias Utilizadas
 - Miro (para criação do Diagrama ER)
